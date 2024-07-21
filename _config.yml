@@ -21,9 +21,9 @@ repository               : "derek-yunhao-li/derek-yunhao-li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yunhao Li"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him/his"  
   bio              : "PhD student in Assyriology"
   location         : "New Haven, CT"
   employer         : "Yale University"
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "derek.yunhao.li"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "Derek_yhli"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
