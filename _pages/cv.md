@@ -9,56 +9,63 @@ redirect_from:
 
 {% include base_path %}
 
+My full CV can be downloaded [here](https://drive.google.com/file/d/1xkr598dSrhiH00eznfy-wJNNZW1bSVDg/view?usp=sharing).
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D student in Assyriology, Yale University, 2024 - Present
+  * I am currently pursuing a PhD in Assyriology at the Department of Near Eastern Languages & Civilizations, Yale University.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* B.A. in Economics & History, Peking University, 2024
+  * I graduated from Peking University in 2024 with dual bachelor’s degrees in Economics and History. I studied at the School of Economics from Sep 2020 to Aug 2021, and at the National School of Development from Sep 2021 to Jul 2024. My thesis, supervised by Prof. Dr. Yiling Zhao at the Department of Economic History, examines the impacts of the boll weevil invasion on agriculture and higher education in the U.S. South from 1892 to 1922.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Assistant, May 2023 - Feb 2024
+  * I collaborated with Prof. Dr. Yiling Zhao (Peking University) on a project investigating historical conflicts between Native Americans and European Americans in 19th-century U.S.
 
-Publications
+* Research Under Faculty Guidance, Jun 2023 – Oct 2023
+  * I conducted research on the economy of the Hittite Kingdom based on Hittite Laws under the guidance of Prof. Dr. Zheng Li (Peking University) and completed a research article titled "Hittite Laws and Economic Realities: Exploring the Macroeconomic Landscape."
+
+* Research Assistant, Oct 2021 – Aug 2022
+  * I assisted Prof. Dr. Sophie Calder-Wang (University of Pennsylvania) and Dr. Jinlin Li (Harvard University) in studying government venture capital in China.
+ 
+* Research Assistant, Jul 2021 – Dec 2021
+  * I supported Dr. Jinlin Li in researching venture capital and market performance in China.
+
+
+Teaching Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Teaching Assistant, Spring 2024
+  * Course: International Trade (National School of Development, Peking University)
+  * Instructor: Prof. Dr. Qingyang Huang (Peking University)
+
+* Teaching Assistant, Summer 2023
+  * Course: Visual Communication for a Global World (New Zealand Center, Peking University)
+  * Instructor: Prof. Dr. Laurence Simmons (University of Auckland)
+
+Academic Visiting
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* International Guest Student, University of Pennsylvania, Aug 2022 – Dec 2022
+  * I studied at School of Art & Science as an international guest student for one semester.
+
+
+Honors & Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Distinguished Thesis Award (Peking University), 2024
+* Rainbow Bridge Alumni Scholarship, 2023
+* Award for Academic Excellents (Peking University), 2023
+* Deng Guangming Academic Paper Award (Department of History, Peking University), 2023
+* Freshman Scholarship (Peking University), 2020
+
+
+Others
 ======
-* Currently signed in to 43 different slack teams
+* Programming skills & Softwares
+  * LATEX, Markdown, MATLAB, Python, QGIS, Stata
+
+* Languages
+  * Modern Languages: Mandarin (native), English (TOEFL iBT: 105/120), Modern Greek (basic)
+  * Ancient Languages: I have taken courses in Hittite, Classical Greek and Sumerian.
