@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Yunhao Li"
   pronouns         : "he/him/his"  
-  bio              : "PhD student in Assyriology"
+  bio              : # "PhD student in Assyriology"
   location         : "New Haven, CT"
   employer         : "Yale University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "derek-yunhao-li"
+  github           : "derek-yunhao-li"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
