@@ -20,7 +20,6 @@ Education
 
 * B.A. in Economics & History, Peking University, 2024
   * I graduated from Peking University in 2024 with dual bachelor’s degrees in Economics and History. I studied at the School of Economics from Sep 2020 to Aug 2021, and at the National School of Development from Sep 2021 to Jul 2024. My thesis, supervised by Prof. Dr. Yiling Zhao at the Department of Economic History, examines the impacts of the boll weevil invasion on agriculture and higher education in the U.S. South from 1892 to 1922.
-
 <br />
 <br />
 
