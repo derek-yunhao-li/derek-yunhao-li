@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 My full CV can be downloaded [here](https://drive.google.com/file/d/1xkr598dSrhiH00eznfy-wJNNZW1bSVDg/view?usp=sharing).
-
+<br />
+<br />
 
 Education
 ======
@@ -20,6 +21,8 @@ Education
 * B.A. in Economics & History, Peking University, 2024
   * I graduated from Peking University in 2024 with dual bachelor’s degrees in Economics and History. I studied at the School of Economics from Sep 2020 to Aug 2021, and at the National School of Development from Sep 2021 to Jul 2024. My thesis, supervised by Prof. Dr. Yiling Zhao at the Department of Economic History, examines the impacts of the boll weevil invasion on agriculture and higher education in the U.S. South from 1892 to 1922.
 
+<br />
+<br />
 
 Research experience
 ======
@@ -34,7 +37,8 @@ Research experience
  
 * Research Assistant, Jul 2021 – Dec 2021
   * I supported Dr. Jinlin Li in researching venture capital and market performance in China.
-
+<br />
+<br />
 
 Teaching Experience
 ======
@@ -45,12 +49,15 @@ Teaching Experience
 * Teaching Assistant, Summer 2023
   * Course: Visual Communication for a Global World (New Zealand Center, Peking University)
   * Instructor: Prof. Dr. Laurence Simmons (University of Auckland)
+<br />
+<br />
 
 Academic Visiting
 ======
 * International Guest Student, University of Pennsylvania, Aug 2022 – Dec 2022
   * I studied at School of Art & Science as an international guest student for one semester.
-
+<br />
+<br />
 
 Honors & Awards
 ======
@@ -59,7 +66,8 @@ Honors & Awards
 * Award for Academic Excellents (Peking University), 2023
 * Deng Guangming Academic Paper Award (Department of History, Peking University), 2023
 * Freshman Scholarship (Peking University), 2020
-
+<br />
+<br />
 
 Others
 ======
