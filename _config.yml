@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yunhao Li"
 title_separator          : "-"
-name                     : &name "Yunhao Li"
+name                     : &name "Yunhao Li (Derek)"
 description              : &description "personal description"
 url                      : https://derek-yunhao-li.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "derek-yunhao-li"
+  github           : # "derek-yunhao-li"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
