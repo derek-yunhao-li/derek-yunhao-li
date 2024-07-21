@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV can be downloaded [here](https://drive.google.com/file/d/1xkr598dSrhiH00eznfy-wJNNZW1bSVDg/view?usp=sharing).
+My full CV can be downloaded [here](https://derek-yunhao-li.github.io/CV_Yunhao%20Li.pdf).
 <br />
 <br />
 
