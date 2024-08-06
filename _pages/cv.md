@@ -23,7 +23,7 @@ Education
 <br />
 <br />
 
-Research experience
+Research Experience
 ======
 * Research Assistant, May 2023 - Feb 2024
   * I collaborated with Prof. Dr. Yiling Zhao (Peking University) on a project investigating historical conflicts between Native Americans and European Americans in 19th-century U.S.
